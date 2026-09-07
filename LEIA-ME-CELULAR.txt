@@ -1,0 +1,28 @@
+CONTROLE DE EMPRÉSTIMOS — VERSÃO PWA
+
+Esta pasta já está preparada para virar um APK usando somente o celular.
+
+ARQUIVOS:
+- index.html = aplicativo
+- manifest.json = identificação do app
+- sw.js = funcionamento offline/cache
+- icons/ = ícones do aplicativo
+
+CAMINHO GRATUITO:
+1. Crie uma conta no GitHub pelo navegador do celular.
+2. Crie um repositório público novo, por exemplo: controle-emprestimos.
+3. Extraia este ZIP e envie os arquivos para o repositório.
+4. No GitHub, abra Settings > Pages.
+5. Em "Build and deployment", escolha "Deploy from a branch", branch "main" e pasta "/ (root)".
+6. Aguarde o GitHub gerar o endereço terminado em github.io.
+7. Abra esse endereço no Chrome para testar.
+8. Entre no PWABuilder pelo navegador e cole o endereço do seu app.
+9. Escolha Android e siga o processo de geração do pacote.
+10. Baixe o APK gerado e instale no seu Android.
+
+IMPORTANTE:
+- O aplicativo guarda os dados dos clientes/empréstimos no armazenamento local do aparelho/navegador.
+- NÃO coloque dados reais de clientes no GitHub.
+- O repositório contém apenas o código do aplicativo.
+- Para uso pessoal, não é necessário publicar na Google Play.
+
